@@ -275,6 +275,10 @@ i {
     max-width: 740px;
   }
 }
+iframe {
+  width: 100vw;
+}
+
 .footer {
   display: flex;
   flex-direction: column;
